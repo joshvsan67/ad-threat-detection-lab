@@ -1,5 +1,5 @@
 # ad-threat-detection-lab
-Simulated Active Directory attacks using Kali Linux and analyzed Kerberos, SMB, and authentication traffic with Wireshark and tcpdump. Centralized Windows Event Logs using the ELK Stack and developed detection queries to identify password spraying, enumeration, and lateral movement activity.
+Simulated Active Directory attacks using Kali Linux and analyzed Kerberos, SMB, and authentication traffic with Wireshark, Splunk, and tcpdump. Centralized Windows Event Logs using the Splunk and developed detection queries to identify password spraying, enumeration, and privilege escalation activity.
 
 **Network Diagram**
 (This is just a rough draft of how I want it to look, decided to go with different IPs for easier setup in the final lab)
