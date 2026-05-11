@@ -1,4 +1,4 @@
-## Installation of Lab Screenshots
+# Installation of Lab Screenshots
 
 (Sharing some screenshots of the installations I did for this project)
 
