@@ -39,8 +39,13 @@ Splunk now receiving logs from target PC (Also implemented it to my domain contr
 ## Kali Linux Tool Installation
 
 Crowbar for bruteforcing:
-
+(Later replaced with hydra for brute forcing method)
 <img width="630" height="454" alt="Crowbar kali installation" src="https://github.com/user-attachments/assets/4bfec7b0-6b7f-43c9-ba7c-6962fa2fecfc" />
+
+Atomic Red Team Installation:
+
+<img width="837" height="377" alt="image" src="https://github.com/user-attachments/assets/9db0c574-71c5-42e5-b107-80bb8a1afa4d" />
+
 
 
 
