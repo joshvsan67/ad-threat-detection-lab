@@ -5,8 +5,9 @@ Decided to use hydra for this since crowbar was not cooperating with me on RDP b
 
 <img width="638" height="465" alt="Brute Force Attack" src="https://github.com/user-attachments/assets/27b6fd3a-7a54-4213-86bb-d99622ce6f58" />
 
-Eventually a success!
 <img width="635" height="470" alt="Success!" src="https://github.com/user-attachments/assets/6bd79ef6-59b0-4e87-a2c3-b51a3b2285e7" />
+
+Eventually a success!
 
 
 ## Splunk Event Logs
