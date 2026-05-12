@@ -5,6 +5,8 @@
 * Centralized Windows Event Logs using the Splunk and developed detection queries to identify password spraying, enumeration, and privilege escalation activity.
 * This project focuses on attacking intentionally vulnerable lab systems, detecting malicious behavior through host and network telemetry, documenting investigative findings, and developing incident response workflows aligned with SOC and blue-team operations.
 
+[Full Walkthrough](https://github.com/joshvsan67/ad-threat-detection-lab/tree/main/Full%20Walkthrough%20of%20Attacks%20and%20Detections)
+
 ## Network Diagram
 (This is just a rough draft of how I want it to look, decided to go with different IPs for easier setup in the final lab)
 <img width="1408" height="717" alt="Network Diagram - AD Lab" src="https://github.com/user-attachments/assets/41c74d65-1f61-4589-ad30-fdb0099d71ee" />
